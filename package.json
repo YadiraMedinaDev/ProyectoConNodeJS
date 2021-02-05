@@ -1,0 +1,22 @@
+{
+  "name": "proyectoconnodejs",
+  "version": "1.0.0",
+  "description": "Proyecto con Nodejs",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YadiraMedinaDev/ProyectoConNodeJS.git"
+  },
+  "author": "Yadira Medina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YadiraMedinaDev/ProyectoConNodeJS/issues"
+  },
+  "homepage": "https://github.com/YadiraMedinaDev/ProyectoConNodeJS#readme",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}
